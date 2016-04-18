@@ -8,4 +8,6 @@ Symptoms: do intensive scrolling /bouncing/ up and down for about 15 seconds or 
  
 Empirically proven: bug appears if scroll view bounce is enabled and if collection view data is periodically reloading (see code)!
 
-
+see:
+http://stackoverflow.com/questions/20453291/uicollectionview-crashes-randomly-because-of-highlighting-issue
+http://stackoverflow.com/questions/19448488/uicollectionview-strange-crash-in-ios-7
